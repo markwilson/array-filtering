@@ -1,0 +1,20 @@
+{
+    "name": "markwilson/array-filtering",
+    "description": "Array filtering",
+    "minimum-stability": "dev",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "Mark Wilson",
+            "email": "mark@89allport.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "MarkWilson\\": "./src"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.1.0"
+    }
+}
