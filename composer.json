@@ -1,7 +1,7 @@
 {
     "name": "markwilson/array-filtering",
     "description": "Array filtering",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "apache",
     "authors": [
         {
