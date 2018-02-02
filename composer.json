@@ -2,7 +2,7 @@
     "name": "markwilson/array-filtering",
     "description": "Array filtering",
     "minimum-stability": "stable",
-    "license": "apache",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Mark Wilson",
